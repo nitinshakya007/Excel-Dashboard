@@ -2,8 +2,7 @@
 
 An interactive **Excel Sales Dashboard** built to analyze and visualize sales data across countries, product lines, and time periods.
 
-![Sales Dashboard](<img width="1315" height="458" alt="image" src="https://github.com/user-attachments/assets/f608b289-5512-408e-b32d-8ee35f6f7b7f" />
-)
+<img width="1315" height="458" alt="image" src="https://github.com/user-attachments/assets/f608b289-5512-408e-b32d-8ee35f6f7b7f" />
 
 ---
 
